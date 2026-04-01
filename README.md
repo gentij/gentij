@@ -81,14 +81,6 @@ The core engine behind Stemmer — a pure Rust library for audio processing.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gentijashari\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentijashari\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 * 📧 [gentijashari5@gmail.com](mailto:gentijashari5@gmail.com)

@@ -8,7 +8,7 @@ I enjoy working across the stack, but I’m especially focused on **backend syst
 
 ## 🚀 Featured Projects
 
-### ⚙️ Taskforge
+### ⚙️ Lune
 
 A self-hosted workflow automation engine — think *Zapier, but open and yours*.
 
@@ -89,7 +89,7 @@ The core engine behind Stemmer — a pure Rust library for audio processing.
 
 ## ⚡ Currently
 
-* Building and refining **Taskforge**
+* Building and refining **Lune**
 * Improving ONNX inference and performance in **stem-splitter-core**
 * Expanding the UI/UX of **Stemmer**
 
